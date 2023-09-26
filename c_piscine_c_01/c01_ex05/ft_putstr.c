@@ -1,16 +1,16 @@
-/* ******************************************************************************************* */
-/*   c01_ex05: ft_putstr                                       	           		  			   */
-/*                                                  					 	:::      ::::::::  */
-/*   Instructions:                                 					 	  :+:      :+:    :+:  */
-/*                                                  				    +:+ +:+         +:+    */
-/*   Create a function that displays a string of characters on		  +#+  +:+       +#+       */
-/*      the standard output.								        +#+#+#+#+#+   +#+	       */
-/* 	    																 #+#    #+#		       */
-/*   Here’s how it should be prototyped :	       					    ###   ########.fr      */
-/*   														      							   */
-/*      void ft_putstr(char *str);					   	  					 				   */
-/*																							   */
-/* ******************************************************************************************* */
+/* ***************************************************************************************** */
+/*   c01_ex05: ft_putstr                                                                     */
+/*                                                                        :::      ::::::::  */
+/*   Instructions:                                                      :+:      :+:    :+:  */
+/*                                                                    +:+ +:+         +:+    */
+/*   Create a function that displays a string of characters on      +#+  +:+       +#+       */
+/*      the standard output.                                      +#+#+#+#+#+   +#+          */
+/*                                                                     #+#    #+#            */
+/*   Here’s how it should be prototyped :                             ###   ########.fr      */
+/*                                                                                           */
+/*      void ft_putstr(char *str);                                                           */
+/*                                                                                           */
+/* ***************************************************************************************** */
 
 
 void	ft_putstr(char *str)

@@ -1,16 +1,16 @@
-/* *************************************************************************************************** */
-/*   c01_ex02: ft_swap                                                              	   			   */
-/*                                                  					 	        :::      ::::::::  */
-/*   Instructions:                                 					 	          :+:      :+:    :+:  */
-/*                                                  					        +:+ +:+         +:+    */
-/*   Create a function that swaps the value of two integers 		          +#+  +:+       +#+       */
-/*    whose addresses are entered as parameters.			  			    +#+#+#+#+#+   +#+	       */
-/* 	     																		 #+#    #+#		       */
-/*   Here’s how it should be prototyped :          					    	    ###   ########.fr      */
-/*   																								   */
-/*      void ft_swap(int *a, int *b);														           */
-/*                                                                            						   */
-/* *************************************************************************************************** */
+/* **************************************************************************************** */
+/*   c01_ex02: ft_swap                                                                      */
+/*                                                                       :::      ::::::::  */
+/*   Instructions:                                                     :+:      :+:    :+:  */
+/*                                                                   +:+ +:+         +:+    */
+/*   Create a function that swaps the value of two integers        +#+  +:+       +#+       */
+/*     whose addresses are entered as parameters.                +#+#+#+#+#+   +#+          */
+/*                                                                    #+#    #+#            */
+/*   Here’s how it should be prototyped :                            ###   ########.fr      */
+/*                                                                                          */
+/*      void ft_swap(int *a, int *b);                                                       */
+/*                                                                                          */
+/* **************************************************************************************** */
 
 
 void	ft_swap(int *a, int *b)

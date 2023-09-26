@@ -1,16 +1,16 @@
 /* *************************************************************************************************** */
-/*   c01_ex04: ft_ultimate_div_mod                                                             	   	   */
-/*                                                  					 	        :::      ::::::::  */
-/*   Instructions:                                 					 	          :+:      :+:    :+:  */
-/*                                                  					        +:+ +:+         +:+    */
+/*   c01_ex04: ft_ultimate_div_mod                                                                     */
+/*                                                                                  :::      ::::::::  */
+/*   Instructions:                                                                :+:      :+:    :+:  */
+/*                                                                              +:+ +:+         +:+    */
 /*   Create a function ft_ultimate_div_mod with the following prototype :     +#+  +:+       +#+       */
-/*                            								  			    +#+#+#+#+#+   +#+	       */
-/* 	    void ft_ultimate_div_mod(int *a, int *b); 								 #+#    #+#		       */
-/*   										       					    	    ###   ########.fr      */
-/*   This function divides parameters a by b.						       							   */
-/*      The result of this division is stored in the int pointed by a.					      		   */
-/*      The remainder of the division is stored in the int pointed by b.		                       */
-/*																									   */
+/*                                                                          +#+#+#+#+#+   +#+          */
+/*      void ft_ultimate_div_mod(int *a, int *b);                                #+#    #+#            */
+/*                                                                              ###   ########.fr      */
+/*   This function divides parameters a by b.                                                          */
+/*      The result of this division is stored in the int pointed by a.                                 */
+/*      The remainder of the division is stored in the int pointed by b.                               */
+/*                                                                                                     */
 /* *************************************************************************************************** */
 
 

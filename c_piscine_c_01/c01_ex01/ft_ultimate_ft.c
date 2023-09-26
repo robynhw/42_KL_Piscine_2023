@@ -1,17 +1,17 @@
-/* *************************************************************************************************** */
-/*   c01_ex01: ft_ultimate_ft                                                                		   */
-/*                                                  					 	        :::      ::::::::  */
-/*   Instructions:                                 					 	          :+:      :+:    :+:  */
-/*                                                  					        +:+ +:+         +:+    */
-/*   Create a function that takes a pointer to pointer to pointer	          +#+  +:+       +#+       */
-/*    to pointer to pointer to pointer to pointer to pointer			    +#+#+#+#+#+   +#+	       */
-/* 	  to pointer to int as a parameter and sets the value "42" to that int.      #+#    #+#		       */
-/*             					   	   										    ###   ########.fr      */
-/*   Here’s how it should be prototyped :              												   */
-/*   																								   */
-/*      void ft_ultimate_ft(int *********nbr);														   */
-/*                                                                            						   */
-/* *************************************************************************************************** */
+/* ******************************************************************************************************** */
+/*  c01_ex01: ft_ultimate_ft                                                                                */
+/*                                                                                      :::      ::::::::   */
+/*  Instructions:                                                                     :+:      :+:    :+:   */
+/*                                                                                  +:+ +:+         +:+     */
+/*  Create a function that takes a pointer to pointer to pointer                  +#+  +:+       +#+        */
+/*     to pointer to pointer to pointer to pointer to pointer                   +#+#+#+#+#+   +#+           */
+/*     to pointer to int as a parameter and sets the value "42" to that int.         #+#    #+#             */
+/*                                                                                  ###   ########.fr       */
+/*  Here’s how it should be prototyped :                                                                    */
+/*                                                                                                          */
+/*     void ft_ultimate_ft(int *********nbr);                                                               */
+/*                                                                                                          */
+/* ******************************************************************************************************** */
 
 
 void	ft_ultimate_ft(int *********nbr)
